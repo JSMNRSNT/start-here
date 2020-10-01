@@ -1,6 +1,7 @@
 <style>
 li{
   display: inline;
+  text-align: center;
 }
 li:hover{
 color: pink;
